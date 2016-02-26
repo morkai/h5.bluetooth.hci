@@ -1,0 +1,22 @@
+{
+	"name": "h5.bluetooth.hci",
+	"version": "0.0.0",
+	"description": "Blueooth HCI decoder for Node.js.",
+	"keywords": ["h5", "blueooth", "ble", "hci"],
+	"license": "MIT",
+	"homepage": "https://github.com/morkai/h5.bluetooth.hci",
+	"author": {
+		"name": "Łukasz Walukiewicz",
+		"email": "lukasz@miracle.systems",
+		"url": "http://miracle.systems/p/h5.bluetooth.hci"
+	},
+	"bugs": "https://github.com/morkai/h5.bluetooth.hci/issues",
+	"repository": {
+		"type": "git",
+		"url":  "http://github.com/morkai/h5.bluetooth.hci.git"
+	},
+	"engines": {
+    "node": ">=4.x.x"
+  },
+	"main": "./lib/index"
+}
